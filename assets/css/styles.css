@@ -818,10 +818,13 @@ img {
   color: #FFF;
 }
 
-.project__img{
-  width: 232px;
+.project__img {
+  width: 250px;
   justify-self: center;
+  transform: scale(1.2);     /* zoom image without changing box */
+  transform-origin: center;  /* zoom from center */
 }
+
 
 /*==================== TESTIMONIAL ====================*/
 
