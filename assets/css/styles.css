@@ -511,43 +511,32 @@ img {
   background-color: var(--first-color);
 }
 
-.skills__python{
+.skills__davin{
   width: 90%;
 }
-.skills__excel{
+.skills__photo{
   width: 80%;
 }
-.skills__sql{
+.skills__blender{
   width: 60%;
 }
-.skills__powerbl{
-  width: 85%;
-}
-.skills__tableau{
-  width: 70%;
-}
 
+.skills__python{
+  width: 50%;
+}
+.skills__C{
+  width: 60%;
+}
 .skills__supervisedLearning{
-  width: 70%;
-}
-.skills__unsupervisedLearning{
-  width: 75%;
-}
-.skills__reinforcementLearning{
-  width: 75%;
-}
-.skills__semiLearning{
-  width: 75%;
+  width: 35%;
 }
 
-.skills__html{
-  width: 90%;
+
+.skills__csharp{
+  width: 40%;
 }
-.skills__css{
-  width: 85%;
-}
-.skills__js{
-  width: 85%;
+.skills__c{
+  width: 55%;
 }
 
 .skills__close .skills__list{
